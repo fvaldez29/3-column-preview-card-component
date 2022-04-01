@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - 3-column preview card component
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
@@ -90,3 +91,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# 3-column-preview-card-component
+>>>>>>> 9b6f36ce29f3ca7b0c73f1b6478a94e89811f305
