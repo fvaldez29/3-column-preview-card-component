@@ -169,3 +169,10 @@ html{
         border-bottom-right-radius: 5px;
     }
 }
+.attribution{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 15px;
+    color: black;
+}
